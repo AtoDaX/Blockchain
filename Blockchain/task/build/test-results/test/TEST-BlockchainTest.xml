@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BlockchainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-23T15:06:32" hostname="anton" time="1.137">
+  <properties/>
+  <testcase name="start" classname="BlockchainTest" time="1.137"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Block:
+Created by miner # 2
+Id: 1
+Timestamp: 1677164792235
+Magic number: 408643314
+Hash of the previous block:
+0
+Hash of the block:
+0dfbc0ebbb08331c23c055fcbc6471143db12b28c41653b0172a991e544a62a2
+Block was generating for 0 seconds
+N was increased to 1
+
+Block:
+Created by miner # 4
+Id: 2
+Timestamp: 1677164792263
+Magic number: 293782633
+Hash of the previous block:
+0dfbc0ebbb08331c23c055fcbc6471143db12b28c41653b0172a991e544a62a2
+Hash of the block:
+04cc0b0b219a38528dbe07431df7695c19a4362204c17714b9dedd4e0c20e9ee
+Block was generating for 0 seconds
+N was increased to 2
+
+Block:
+Created by miner # 5
+Id: 3
+Timestamp: 1677164792298
+Magic number: 365545461
+Hash of the previous block:
+04cc0b0b219a38528dbe07431df7695c19a4362204c17714b9dedd4e0c20e9ee
+Hash of the block:
+00e10fd9aa2bf43269d986652322a4b9de29b48255c431bc0038eb52bd0b0408
+Block was generating for 0 seconds
+N was increased to 3
+
+Block:
+Created by miner # 1
+Id: 4
+Timestamp: 1677164792376
+Magic number: 152859940
+Hash of the previous block:
+00e10fd9aa2bf43269d986652322a4b9de29b48255c431bc0038eb52bd0b0408
+Hash of the block:
+000c8a182f4af1d25dd635f43985cb8bc7254c19fc07c0b64b68af075eb584a3
+Block was generating for 0 seconds
+N was increased to 4
+
+Block:
+Created by miner # 2
+Id: 5
+Timestamp: 1677164792688
+Magic number: 892108698
+Hash of the previous block:
+000c8a182f4af1d25dd635f43985cb8bc7254c19fc07c0b64b68af075eb584a3
+Hash of the block:
+00000c2476cab0252af333b2fe25b7e05ef4a10e1db1eaf233be442f6eadca67
+Block was generating for 0 seconds
+N was increased to 5
+
+?[1;31m
+Start test 2?[0m
+Block:
+Created by miner # 1
+Id: 1
+Timestamp: 1677164792852
+Magic number: 481785621
+Hash of the previous block:
+0
+Hash of the block:
+065eb1a26c83f412529c0e075a633ebf88f6cbfafc4dbd7ae7faad81e9af9f85
+Block was generating for 0 seconds
+N was increased to 1
+
+Block:
+Created by miner # 1
+Id: 2
+Timestamp: 1677164792862
+Magic number: 758801907
+Hash of the previous block:
+065eb1a26c83f412529c0e075a633ebf88f6cbfafc4dbd7ae7faad81e9af9f85
+Hash of the block:
+0e79e94edfeae0160db3e9d14157d5e02342a80c0b257d893d9e8bffb7293418
+Block was generating for 0 seconds
+N was increased to 2
+
+Block:
+Created by miner # 1
+Id: 3
+Timestamp: 1677164792877
+Magic number: 73768534
+Hash of the previous block:
+0e79e94edfeae0160db3e9d14157d5e02342a80c0b257d893d9e8bffb7293418
+Hash of the block:
+00c684ce24ba738e30b8ac199db2ab215ee431104b58053c3dd9c386117d09ef
+Block was generating for 0 seconds
+N was increased to 3
+
+Block:
+Created by miner # 1
+Id: 4
+Timestamp: 1677164792923
+Magic number: 705267642
+Hash of the previous block:
+00c684ce24ba738e30b8ac199db2ab215ee431104b58053c3dd9c386117d09ef
+Hash of the block:
+000935131c4be214b2f387836e87b221e79c9f278179f74d47af8c8bb5f940d7
+Block was generating for 0 seconds
+N was increased to 4
+
+Block:
+Created by miner # 3
+Id: 5
+Timestamp: 1677164792952
+Magic number: 912015561
+Hash of the previous block:
+000935131c4be214b2f387836e87b221e79c9f278179f74d47af8c8bb5f940d7
+Hash of the block:
+000079c67396852956aab9a29a7e9d60eb9ddfc16d4499f9f6b073039210acb1
+Block was generating for 0 seconds
+N was increased to 5
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
