@@ -78,7 +78,7 @@ public class BlockChain {
         if (isBlockInvalid(block, previousHash, true)) {
             return false;
         }
-        block.getBlockData().setMessages(new ArrayList<>(messages));
+
 
         // Add block to blockchain.
         blockChain.add(block);
@@ -104,7 +104,7 @@ public class BlockChain {
         } else {
             blockDataToMine.set(null);
         }
-        messages.clear();
+
         return true;
     }
 
